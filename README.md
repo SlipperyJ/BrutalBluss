@@ -1,36 +1,9 @@
 #BrutalBluss
 
-Create a script that:
+This is a result of SlipperyJ and myself hacking on a cutting edge CLI based game.
 
+It grew bigger than we thought after a few hours so we decided to commit it to source control.
 
-Says 'Welcome to BrutalBluss 0.1 Alpha'
-Asks a user for a name (and stores it) (Later this will be persisted to a DB)
-Asks if you're ready to play
-
-
-
-Items:
-health potion - Aubergene
-rage potion -
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-User - has username
-     - has backpack (items)
-     - has high score
-     - has progression saved
-
+ We're pretty sure that this will be the next Angry Birds and earn us millions.
+ 
+ Even though it's open source.
